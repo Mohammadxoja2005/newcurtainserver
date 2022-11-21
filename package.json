@@ -1,0 +1,33 @@
+{
+  "name": "curtainserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammadxoja2005/newcurtainserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohammadxoja2005/newcurtainserver/issues"
+  },
+  "homepage": "https://github.com/Mohammadxoja2005/newcurtainserver#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "netlify-lambda": "^2.0.15",
+    "nodemon": "^2.0.20",
+    "sequelize": "^4.23.0",
+    "sequelize-cli": "^6.5.2"
+  }
+}
