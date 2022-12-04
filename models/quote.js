@@ -1,4 +1,5 @@
-module.exports = (sequelize, DataTypes) => {
+module.exports = (sequelize, DataTypes) => { 
+  
   const Quote = sequelize.define("Quote", {
     name: {
       type: DataTypes.STRING,
