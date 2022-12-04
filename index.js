@@ -4,7 +4,6 @@ const db = require("./models");
 const cors = require("cors");
 const quote = require("./routes/quote");
 const PORT = 5000;
-// require("dotenv").config(); 
 
 app.use(express.json());
 app.use(cors());
