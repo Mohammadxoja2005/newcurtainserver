@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "grandsh1_curtain",
-    "password": "0ev]V9UfR{wd",
-    "database": "grandsh1_curtain",
-    "host": "83.69.139.250",
+    "username": "root",
+    "password": "root",
+    "database": "curtain",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   }
 }
