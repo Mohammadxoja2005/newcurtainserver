@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "root",
-    "database": "curtain",
-    "host": "127.0.0.1",
+    "username": "grandsh1_curtain",
+    "password": "0ev]V9UfR{wd",
+    "database": "grandsh1_curtain",
+    "host": "83.69.139.250",
     "dialect": "mysql"
   },
   "test": {
@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "sql12579231",
-    "password": "lnldaF5Kjl",
-    "database": "sql12579231",
-    "host": "sql12.freemysqlhosting.net",
+    "username": "grandsh1_curtain",
+    "password": "0ev]V9UfR{wd",
+    "database": "grandsh1_curtain",
+    "host": "83.69.139.250",
     "dialect": "mysql"
   }
 }
